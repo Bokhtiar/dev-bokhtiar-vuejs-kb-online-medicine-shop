@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&family=Peddana&family=Poppins:ital,wght@0,600;1,500;1,600;1,700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100&display=swap');
+
+/* icon  */
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Peddana', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+:root{
+    --primary: #FF5733;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #AEB6BF;
+}
+.custom-btn{
+    border-radius: 34px;
+    background-color: var(--primary);
+    color: white;
+}
+
+
+/* banner  */
+.banner{
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+.banner-title{
+    font-weight: bold;
+}
+.banner-img{
+    background: url('../Assets/images/banner.jpg'); 
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
