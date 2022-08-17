@@ -114,3 +114,33 @@ a{
 .footer-ul>li>a{
     color: white;
 }
+
+.p-title-cat{
+    font-weight: 600;
+}
+.category-title{
+    font-weight: 700;
+}
+.p-category {
+    font-weight: 600;
+}
+
+
+/* category banner */
+.category-banner-wrapper{
+    position: relative ;
+}
+.category-banner{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.category-banner-title{
+    font-weight: bold;
+}
+.category-banner-img{
+    background: url('../Assets/images/banner1.jpg'); 
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
