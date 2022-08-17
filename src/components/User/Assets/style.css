@@ -16,6 +16,7 @@ font-family: 'Raleway', sans-serif; */
 }
 :root{
     --primary: #FF5733;
+    --secoundary: #fff;
 }
 hr{
     margin-top: 0px;
@@ -24,12 +25,15 @@ hr{
 }
 .custom-btn{
     border-radius: 34px;
-    border: 2px #FF5733;
+    background-color: var(--primary);
     color: white;
 }
 
 
 /* banner  */
+.banner-wrapper{
+    position: relative ;
+}
 .banner{
     padding-top: 170px;
     padding-bottom: 170px;
@@ -38,8 +42,23 @@ hr{
     font-weight: bold;
 }
 .banner-img{
-    background: url('../Assets/images/banner.jpg'); 
+    background: url('../Assets/images/banner1.jpg'); 
     background-position: auto;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.banner-card-wrapper{
+    position: relative;
+    margin-top: -40px;
+}
+.banner-card{
+    background-color: var(--secoundary);
+    border-radius: 4px;
+}
+.banner-shaddow{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.banner-cart-title{
+    font-size: 18px;
+    font-weight: bold;
 }
