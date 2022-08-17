@@ -24,7 +24,7 @@ hr{
 }
 .custom-btn{
     border-radius: 34px;
-    background-color: var(--primary);
+    border: 2px #FF5733;
     color: white;
 }
 
