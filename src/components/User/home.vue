@@ -6,7 +6,7 @@
         <div class="container banner">
           <h2 class="banner-title">Mono Watch</h2>
           <p class="banner-text">Cool Example Of Creative Medical Tools</p>
-          <a class="btn custom-btn" href="">Shop Now</a>
+          <a class="btn load-btn" href="">Shop Now</a>
         </div>
       </div>
     </section>
@@ -376,6 +376,9 @@
     </section>
     <!--product list show End -->
 
+   <div class="text-center">
+      <a class="btn load-btn" href="">Load More</a>
+   </div>
 
   </section>
 </template>

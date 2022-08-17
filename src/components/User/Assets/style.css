@@ -32,7 +32,14 @@ a{
     background-color: var(--primary);
     color: white;
 }
-
+.load-btn{
+    border: 2px solid var(--primary);
+    border-radius: 34px;
+}
+.load-btn:hover{
+    background-color: var(--primary);
+    color: white;
+}
 
 /* banner  */
 .banner-wrapper{
@@ -97,4 +104,13 @@ a{
     display: block;
   }
 
-
+/* footer */
+.footer{
+    background-color: #34495E;
+}
+.footer-ul{
+    list-style: none;
+}
+.footer-ul>li>a{
+    color: white;
+}
