@@ -63,12 +63,6 @@
           <div class="d-flex mb-3 category">
           <div class="p-2 item"><a href="">All Product</a></div>
           <div class="p-2 item"><a href="">Bags</a></div>
-          <div class="p-2 item"><a href="">Phone</a></div>
-          <div class="p-2 item"><a href="">Leptop</a></div>
-          <div class="p-2 item"><a href="">Sunglass</a></div>
-          <div class="p-2 item"><a href="">Leptop</a></div>
-          <div class="p-2 item"><a href="">Sunglass</a></div>
-
 
           <div class="ms-auto p-2">
             <span class="p-2">
