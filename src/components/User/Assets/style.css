@@ -71,3 +71,30 @@ a{
 .category>.item{
     font-weight: bold;
 }
+
+.product-title {
+    font-weight: 600;
+}
+
+.product {
+    position: relative;
+}
+.product-body {
+    position: absolute;
+    top: 30%;
+    right: 0px;
+}
+.product-body>ul{
+    list-style: none;
+    margin-right: 10px;
+}
+
+.showme {
+    display: none;
+  }
+  
+  .showhim:hover .showme {
+    display: block;
+  }
+
+

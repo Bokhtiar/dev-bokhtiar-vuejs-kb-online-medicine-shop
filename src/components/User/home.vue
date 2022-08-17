@@ -90,9 +90,289 @@
 
             
           </div>
-        </div>
+          </div>
         </div>
       <!--category and filter and search end here -->
+      <!--product start -->
+        <div class="row">
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-3 col-lg-3 col-sm-6 col-6 my-2 showhim">
+            <div class="product" style="width: 15rem;">
+              <img height="200px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAyaDNN-fSsH-7ndhXqX_sK_0jhRZ_Jkl9Msp_5SlVQ&s" class="" alt="...">
+                <div class="d-flex">
+                  <div class="pt-2 product-title">Tree Plants </div>
+                  <div class="ms-auto pt-2"> ৳ 233</div>
+                </div>
+                <div class="product-body showme">
+                  <ul>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">shopping_cart</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">favorite</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <span class="material-symbols-outlined">visibility</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+
+          
+
+        </div>
+      <!--product end -->
     </section>
     <!--product list show End -->
 
