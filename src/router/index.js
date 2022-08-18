@@ -15,6 +15,18 @@ const routes = [
 		path: '/products',
 		name: 'Products',
 		component: () => import('../components/User/Product/Index.vue')
+	},
+
+	/**admin auth route */
+	{
+		path: '/admin/register',
+		name: 'register',
+		component: () => import('../components/Admin/Auth/Register.vue')
+	},
+	{
+		path: '/admin/list',
+		name: 'list',
+		component: () => import('../components/Admin/Auth/List.vue')
 	}
 ];
 

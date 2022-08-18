@@ -45,25 +45,13 @@
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Dropdown
+                Profile
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><hr class="dropdown-divider" /></li>
-                <li>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </li>
+                <li><a class="dropdown-item" href="#">Login</a></li>
+                <li><router-link class="dropdown-item" to="/admin/register">Register</router-link></li>
+                <li><router-link class="dropdown-item" to="/admin/list">list</router-link></li>
               </ul>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link disabled"
-                href="#"
-                tabindex="-1"
-                aria-disabled="true"
-                >Disabled</a
-              >
             </li>
           </ul>
           <div class="d-flex">

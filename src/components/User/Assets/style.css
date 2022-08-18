@@ -27,6 +27,12 @@ a{
     text-decoration: none;
     color: black;
 }
+.row{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
 .custom-btn{
     border-radius: 34px;
     background-color: var(--primary);
@@ -143,4 +149,17 @@ a{
     background-position: auto;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* registration */
+.reg-title{
+    background-color: var(--primary);
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
 }
