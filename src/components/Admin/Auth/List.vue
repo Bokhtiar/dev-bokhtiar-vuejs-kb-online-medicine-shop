@@ -23,7 +23,7 @@
               <td>{{ admin.email}}</td>
               <td>
                   <a href="">Edit</a>
-                  <a href="">Delete</a>
+                  <button class="btn btn-sm btn-danger" @click="admindelete(admin._id)" >Delete</button>
               </td>
             </tr>
           </tbody>
@@ -42,6 +42,7 @@ export default {
   },
 
   methods: {
+    /**list of admin */
     adminList() {
       axios
         .get("/admin")
@@ -53,6 +54,17 @@ export default {
           console.log(error);
         });
     },
+
+    /**delete of admin */
+    admindelete(id){
+      axios.delete(`/admin/${id}`).then((res) => {
+        console.log(res)
+        this.adminList()
+      }).catch((error)=> {
+        console.log(error)
+      })
+    }
+    
   },
   mounted() {
     this.adminList();

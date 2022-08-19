@@ -48,7 +48,7 @@
                 Profile
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#">Login</a></li>
+                <li><router-link class="dropdown-item" to="/admin/login">Login</router-link></li>
                 <li><router-link class="dropdown-item" to="/admin/register">Register</router-link></li>
                 <li><router-link class="dropdown-item" to="/admin/list">list</router-link></li>
               </ul>

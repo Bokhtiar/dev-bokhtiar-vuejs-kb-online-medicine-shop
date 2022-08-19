@@ -19,6 +19,11 @@ const routes = [
 
 	/**admin auth route */
 	{
+		path: '/admin/login',
+		name: 'login',
+		component: () => import('../components/Admin/Auth/Login.vue')
+	},
+	{
 		path: '/admin/register',
 		name: 'register',
 		component: () => import('../components/Admin/Auth/Register.vue')
